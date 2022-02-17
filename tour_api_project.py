@@ -2,7 +2,7 @@ import json
 import urllib.request
 import pandas as pd
 
-client_id = 'cTWUGiJR/GRNsWP1Zvpr6EfojgF2NzRo6pzKHUXZplHewa1M8A9dkuiqnqsbVFTvix8hc8GWw4abmLFx7YB5tA=='  # 공공데이터포탈 api key
+client_id = ''  # 공공데이터포탈 api key
 
 def getRequestUrl(url):
 
